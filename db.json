@@ -1,0 +1,104 @@
+{
+  "news": [
+    {
+      "id": 1,
+      "title": "Berkshire Hathaway Adds Nearly $600M In Occidental Petroleum Stock After Permian Basin Acquisition",
+      "img": "https://d.ibtimes.com/en/full/3233603/warren-buffett-signaled-strong-support-bill-melinda-gates-foundation-even-he-said-he-was.webp?w=736&f=e45e1c418b784ed456eb2ba0b00ebfaa",
+      "description": "Warren Buffett's conglomerate increased its ownership of Occidental this week, signaling approval of the Houston-based oil company's purchase of CrownRock.",
+      "category": "economyMarkets"
+    },
+    {
+      "id": 2,
+      "title": "The Great Comeback Of The Greek Economy",
+      "img": "https://d.ibtimes.com/en/full/4503245/greek-currency.webp?w=736&f=85a5dbf3d052feb4fafd7716e7787b08",
+      "description": "Today, the Greek economy has rebounded to a new normal, contributing to the European stability. The country is witnessing healthy Gross Domestic Product (GDP) growth, while the Debt to GDP ratio is declining.",
+      "category": "economyMarkets"
+    },
+    {
+      "id": 3,
+      "title": "Holiday Shopping Gives November Retail Sales A Boost Despite Negative Forecast",
+      "img": "https://d.ibtimes.com/en/full/4441758/consumers-purchase-gasoline-gas-station-plane-approaches-land-airport-san-diego.webp?w=736&f=ac278a454bc0c63c739bc9c20ac7a9d9",
+      "description": "Today, the Greek economy has rebounded to a new normal, contributing to the European stability. The country is witnessing healthy Gross Domestic Product (GDP) growth, while the Debt to GDP ratio is declining.",
+      "category": "economyMarkets"
+    },
+    {
+      "id": 4,
+      "title": "Gas Prices For US Consumers Reach Two-Year Low As Holiday Travel Season Approaches",
+      "img": "https://d.ibtimes.com/en/full/4441758/consumers-purchase-gasoline-gas-station-plane-approaches-land-airport-san-diego.webp?w=736&f=ac278a454bc0c63c739bc9c20ac7a9d9",
+      "description": "Record domestic oil output is driving down gas prices. ",
+      "category": "economyMarkets"
+    },
+    {
+      "id": 5,
+      "title": "Small Modular Nuclear Reactors' Viability In Future Green Energy Grids Questioned",
+      "img": "https://d.ibtimes.com/en/full/3566429/aerial-view-shows-no-4-front-l-no-3-front-r-no-2-rear-l-no-1-reactor-buildings.webp?w=736&f=badfb046e88fbc49fb579969c7105eea",
+      "description": "A cutting-edge nuclear technology is still in its infancy and beset by financial and environmental concerns. ",
+      "category": "companies"
+    },
+    {
+        "id": 6,
+        "title": "Pfizer Expects To Complete Purchase Of Seagen On Thursday",
+        "img": "https://d.ibtimes.com/en/full/4503277/pfizer-ceoalbert-bourla-said-purchase-seagen-would-help-battle-against-cancer.webp?w=736&f=ae2716c3afe1a17df38f6493f69dc484",
+        "description": "Pfizer announced Tuesday that it expects to complete this week its $43 billion acquisition of cancer-focused biotech company Seagen after clearing key regulatory hurdles.",
+        "category": "companies"
+      },{
+        "id": 7,
+        "title": "Taiwan's Gogoro Unveils Its First India-Made Electric Scooter, Plans To Expand Battery Swapping Ecosystem ",
+        "img": "https://d.ibtimes.com/en/full/3378335/horace-luke-founder-ceo-gogoro-taiwanese-company-that-developed-battery-swapping-refuelling.webp?w=736&f=0c39c58d91592c4e9837592a71aaf8fd",
+        "description": "Founder and CEO Horace Luke said the company was open to making a multi-billion dollar investment to develop the battery swapping infrastructure across by 2024 in India.",
+        "category": "companies"
+      }
+      ,{
+        "id": 8,
+        "title": "Rising Cyberattacks Prompt Bond Markets' Innovative Response To Combat Risk",
+        "img": "https://d.ibtimes.com/en/full/4488029/1.webp?w=736&f=c5f4bab04dc797a83f1f3852dd18c784",
+        "description": "Many organizations and municipalities are coping by purchasing cyber liability insurance, which offers coverage for things like data recovery and legal fees.",
+        "category": "companies"
+      }
+      ,{
+        "id": 9,
+        "title": "President Biden's AI Legislation: A Crucial Step Toward American Technological Leadership",
+        "img": "https://d.ibtimes.com/en/full/4503371/marian-reed.webp?w=736&f=7ffb5c8c1ef243b2fad91ecd3fc2bf14",
+        "description": "The proposed measures aim to bolster the U.S.' standing in the global tech race, shaping the future of AI research, development and application in the U.S.",
+        "category": "technology"
+      }
+      ,{
+        "id": 10,
+        "title": "AI-Powered Metahumans Are Driving Indonesia's Digital Transformation",
+        "img": "https://d.ibtimes.com/en/full/4471404/humanoid-ai-robot-ameca-engineered-arts-attended-un-artificial-intelligence-summit-geneva.webp?w=736&f=6269aeabb620eb7a0d24995c1674788a",
+        "description": "AI and metahumans are gaining much attention in Indonesia's influencer marketing sector, but it may play a greater role in driving the country's digital transformation as more industries explore possibilities with AI-infused digital avatars.",
+        "category": "technology"
+      },{
+        "id": 11,
+        "title": "Musk Says X Will Scrap 'Block' Feature",
+        "img": "https://d.ibtimes.com/en/full/4480673/musk-has-repeatedly-cited-desire-free-speech-motivating-his-changes.webp?w=736&f=0b8e42be56804230611d5e99c7348e6c",
+        "description": "Elon Musk said Friday his social media company X would scrap a feature that allows users to block posts from specific accounts.",
+        "category": "technology"
+      }
+      ,{
+        "id": 12,
+        "title": "Sam Altman's Return Ushers In New Era At OpenAI",
+        "img": "https://d.ibtimes.com/en/full/4500385/altman-announced-late-tuesday-that-he-would-returning-helm-chatgpt-creator.webp?w=736&f=0babac0964010d6623608cd3cfc8073d",
+        "description": "Sam Altman's shock return as chief executive of OpenAI late Tuesday -- days after being sacked -- caps a chaotic period that highlighted deep tensions at the heart of the Artificial Intelligence community.",
+        "category": "technology"
+      },
+      {
+        "id": 13,
+        "title": "Unveiled: The Most Followed Celebrities On Social Media In 2024",
+        "img": "https://d.ibtimes.com/en/full/3268347/rivalry-between-messi-cristiano-ronaldo-came-define-la-liga-much-that-between-barcelona-real.webp?w=736&f=2ac2630c6a559a3fd13e746d68f74754",
+        "description": "The 38 most-followed celebrities featured in this list have navigated the digital landscape with finesse, leveraging their social media platforms not only for self-promotion but also as powerful tools for activism, philanthropy, and meaningful conversations.",
+        "category": "digitalLife"
+      },
+      {
+        "id": 13,
+        "title": "Apple Watch Rash: The Latest On Prevention, Treatment, Causes; And Tips To Avoid Irritated Skin",
+        "img": "https://d.ibtimes.com/en/full/3268347/rivalry-between-messi-cristiano-ronaldo-came-define-la-liga-much-that-between-barcelona-real.webp?w=736&f=2ac2630c6a559a3fd13e746d68f74754",
+        "description": "The 38 most-followed celebrities featured in this list have navigated the digital landscape with finesse, leveraging their social media platforms not only for self-promotion but also as powerful tools for activism, philanthropy, and meaningful conversations.",
+        "category": "digitalLife"
+      }
+
+
+
+  ],
+  "users": [{ "id": 1, "name": "Shahana", "password": "shahana123" }]
+}

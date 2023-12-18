@@ -1,0 +1,198 @@
+/* Navbar */
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 13px 0;
+  
+}
+.FirstPartOfHeader {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.icon {
+  width: 25px;
+  height: 25px;
+  margin-right: 10px;
+  margin-left: 10px;
+
+}
+.menuButton{
+  border: none;
+}
+
+.logo {
+  font-size: 32px;
+  /* flex-wrap: wrap; */
+}
+.logo h3{
+  margin: 0;
+  display: flex;
+  align-items: center;
+}
+.btnstyle {
+  margin-right: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.button {
+    display: flex;
+    justify-content: space-between;
+  background-color: black;
+  color: white;
+  margin-right: 10px;
+  padding: 6px;
+  width: 170px;
+}
+
+
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border: 1px solid lightgray;
+}
+.dateNav{
+    margin-left: 10px;
+}
+
+.linkButtons{
+    background-color: transparent;
+    color: black;
+    padding: 15px 20px;
+    border: none;
+
+}
+.linkButtons:hover{
+    background-color: black;
+    color: white;
+}
+
+.lastSpanForNavbar{
+    margin-right: 20px;
+}
+/* sideBar */
+.sidebar{
+  width: 390px;
+  overflow-y:auto;
+  overflow-x:hidden;
+  max-height: 100vh;
+  position: absolute;
+  background-color: white;
+}
+.searchInput{
+  width: 390px;
+  height: 50px;
+  position: relative;
+ 
+}
+
+.searchInputNavbarLogo{
+  position: absolute;
+  left: 350px;
+  top: 145px;
+}
+.sideLinksNavbar{
+  width: 390px;
+  height: 100%;
+  border-top: 3px solid black;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: space-between;
+  margin-top: 5px;
+  padding-top: 20px;
+  button{
+    text-align: left;
+  }
+ 
+}
+.linkButtons2{
+  background-color: transparent;
+  color: black;
+  padding: 15px 20px;
+  border: none;
+  width: 390px;
+  display: flex;
+  
+  /* justify-content: space-between; */
+  button{
+    text-align: left;
+  }
+
+}
+.linkButtons2:hover{
+  background-color: black;
+  color: white;
+}
+
+.dropDownMenu{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: space-between;
+  width: 390px;
+  button{
+    text-align: left;
+  }
+}
+
+.iconDropDownFooter{
+  display: none;
+}
+/* footer */
+footer{
+  display: flex;
+ justify-content: space-between;
+ align-items: center;
+ align-items: stretch;
+ background-color: #fafafa;
+ padding: 30px 80px;
+}
+
+
+
+
+
+
+
+/* responsive */
+
+@media (max-width:1200px) {
+  nav{
+    display: none;
+  }
+  .logo{
+    flex-direction: column; 
+    align-items: flex-start;
+  }
+  .logo h3{
+  margin-top: 5px;
+  }
+}
+
+
+
+@media (max-width:768px) {
+  nav{
+    display: none;
+  }
+  .divFooter{
+    p{
+      display: none;
+    }
+  }
+  footer{
+    flex-direction: column;
+  }
+  .iconDropDownFooter{
+    display: block;
+  }
+  
+}
+
+
+
